@@ -8,7 +8,7 @@ It has been rightly said by Marcus Aurelius that “nothing has such power to br
 From the earliest years of my life, I have been always intrigued by everything that would happen around and held a penchant for making things work and solving problems.
 
 Hello, I am Diana Satapathy, an inquisitive soul and a process-oriented individual with a keen interest in the field of data analytics and wish to make a career in the same.
-A competent SQL coder with hands-on experience in Tableau, Microsoft Excel and now trying my hands on R language. Always driven by curiosity and seeks to strike a balance between analytics, problem solving, business, and creativity. This attitude has helped in forging up one of my core principles i.e., PPDAC (Problem, Plan, Data, Analysis, and Conclusion) approach. Proficient in interpreting and analyzing data to drive growth.
+A competent SQL coder with hands-on experience in Tableau, Microsoft Excel and now trying my hands on R language. Always driven by curiosity and seeks to strike a balance between analytics, problem solving, business, and creativity. This attitude has helped in forging up one of my core principles i.e., Problem, Plan, Data, Analysis, and Conclusion approach. Proficient in interpreting and analyzing data to drive growth.
 
 
 ---------------------------------------------------------------------------------------------
